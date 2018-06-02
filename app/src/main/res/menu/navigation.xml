@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_deals"
+        android:icon="@drawable/deals"
+        android:title="Tilbud" />
+
+    <item
+        android:id="@+id/navigation_pizza"
+        android:icon="@drawable/navpizza"
+        android:title="Pizza" />
+
+    <item
+        android:id="@+id/navigation_cart"
+        android:icon="@drawable/navcart"
+        android:title="Handlekurv" />
+
+</menu>
