@@ -16,7 +16,7 @@ Recycleview med innhold fra database
 Mulighet for å legge til i handlevogn  
 <br/>
 ![skjermbilde 2018-10-09 kl 20 35 59](https://user-images.githubusercontent.com/20108194/46698048-5dcf1780-cc16-11e8-8e58-a0e40c1354e2.png)  
-Alle "kort" har mulighet for å toggle mellom stor og liten størrelse, og antall  
+Alle "kort" har mulighet for å toggle mellom stor/liten størrelse, og antall  
 <br/>
 ![skjermbilde 2018-10-09 kl 22 39 03](https://user-images.githubusercontent.com/20108194/46698086-7dfed680-cc16-11e8-8ecc-8db88c338a72.png)  
 Handlevogn
